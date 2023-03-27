@@ -1,0 +1,40 @@
+{
+    "employees": [
+        {
+            "name": "Kiran Pagar",
+            "dob": "12-10-1999",
+            "height": 185,
+            "city": "Manmad",
+            "state": "Maharashtra"
+        },
+        {
+            "name": "Dhananjay Talekar",
+            "dob": "11-04-1999",
+            "height": 190,
+            "city": "Laslgaon",
+            "state": "Maharashtra"
+        },
+        {
+            "name": "Balasaheb Aher",
+            "dob": "03-03-1999",
+            "height": 195,
+            "city": "Manmad",
+            "state": "Maharashtra"
+        },
+        {
+            "name": "Gokul Bothe",
+            "dob": "07-07-2000",
+            "height": 185,
+            "city": "Parsul",
+            "state": "Maharashtra"
+        },
+        {
+            "name": "Dibakar chakravarti",
+            "dob": "10-10-1997",
+            "height": 185,
+            "city": "Aasam",
+            "state": "Aasam"
+        }
+
+    ]
+}
